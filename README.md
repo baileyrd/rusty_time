@@ -1,5 +1,11 @@
 # rusty_time
 
+> **This repository has moved.** `rusty_time` now lives at
+> [`crates/rusty_time`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_time)
+> in the [`rusty_mill`](https://github.com/Rusty-Mill/rusty_mill) monorepo, with full commit
+> history preserved. This repository is kept for historical reference and is no longer
+> developed; please open issues and pull requests against `rusty_mill` instead.
+
 A `#![no_std]` + `alloc` sovereign `Date`, `Time`, `DateTime`, RFC 3339/ISO-8601
 parser/formatter, and timezone-offset calculation crate for the **Rusty Mill**
 ecosystem — a dependency-free alternative to crates like `time` and `chrono` for
